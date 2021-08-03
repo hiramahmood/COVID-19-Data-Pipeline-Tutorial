@@ -1,2 +1,2 @@
 # COVID-19-Data-Pipeline-Tutorial
-This repository contains the HTML for a Jupyter Notebook that conducts an analysis of COVID-19 data.
+This repository contains the HTML for a Jupyter Notebook that conducts an analysis of COVID-19 data. Visit https://hiramahmood.github.io/ to view the analysis.
